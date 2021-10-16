@@ -1,11 +1,11 @@
 # Intro
 
-Стив Джобс еще был жив, когда я получил свой первый iPhone. И только умер, когда я купил себе новенький Macbook Pro.
+Steve Jobs was still alive when I got my first iPhone and had just died when I got my brand-new Macbook Pro.
 
-Пару лет спустя, устав играть в Angry Birds, я решил стать iOS разработчиком.
+A couple of years later, bored of playing Angry Birds, I became an iOS developer.
 
-И как это обычно делается, купил аккаунт, прочел документацию, открыл xCode и начал кодить hello world.
+And as any developer would do, I got a developer account, read the documentation, opened XCode and started coding hello world.
 
-Меня зовут Асылбек Исатаев. Здесь я буду постить свои работы, мысли и все остальное.
+My name is Assylbek Issatayev. Here I will post my work, ideas and everything else.
 
-Всем здравствуйте.
+Hi all.
